@@ -45,3 +45,4 @@ else:
 
 
 print(f"Результат проверки карты {card_number}: {is_valid}")
+print("Знакомство с функциями")
