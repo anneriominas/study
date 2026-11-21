@@ -11,7 +11,7 @@ print("Осталось", total)
 
 
 """ 2. Количество повторов (итераций) заранее не известно - while без счетчика """
-total = 100
+total = 110
 while total > 0:
     n = int(input())
     total = total - n
